@@ -68,5 +68,5 @@ public class Contribuyente {
     public void setFechaNac(Date fechaNac) {
         this.fechaNac = fechaNac;
     }
-        
+    
 }
